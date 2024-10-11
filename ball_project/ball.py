@@ -25,4 +25,5 @@ class Ball:
         """
         self.x = pos[0]
         self.y = pos[1]
+        return self
 
